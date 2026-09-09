@@ -9,4 +9,4 @@ print("d |" \
 "       7=saunday")
 d=int(input("enter d:"))
 n=int(input("enter n:"))
-print((d-n)%10)
+print((d-n) % 7)
